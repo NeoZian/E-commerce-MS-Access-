@@ -11,3 +11,5 @@
                                 Password:  “abc060”
 
 
+# Login Page Sample:
+![](https://raw.githubusercontent.com/NeoZian/E-commerce-MS-Access-/master/pic/Capture.PNG)
