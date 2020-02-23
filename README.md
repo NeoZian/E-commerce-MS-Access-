@@ -10,4 +10,4 @@
                                 User name: “Michael c”
                                 Password:  “abc060”
 
-/pic/Capture.PNG
+pic/Capture.PNG
