@@ -9,3 +9,5 @@
                                 Example:
                                 User name: “Michael c”
                                 Password:  “abc060”
+
+Capture.PNG
